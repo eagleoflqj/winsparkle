@@ -21,6 +21,7 @@ library WinSparkle_wx : t_3rdparty {
         src/common/arrstr.cpp
         src/common/artprov.cpp
         src/common/bmpbase.cpp
+        src/common/bmpbndl.cpp
         src/common/btncmn.cpp
         src/common/checkboxcmn.cpp
         src/common/clntdata.cpp
@@ -38,7 +39,6 @@ library WinSparkle_wx : t_3rdparty {
         src/common/dlgcmn.cpp
         src/common/dobjcmn.cpp
         src/common/dpycmn.cpp
-        src/common/dynarray.cpp
         src/common/dynlib.cpp
         src/common/encconv.cpp
         src/common/event.cpp
@@ -65,6 +65,7 @@ library WinSparkle_wx : t_3rdparty {
         src/common/layout.cpp
         src/common/list.cpp
         src/common/longlong.cpp
+        src/common/lzmastream.cpp
         src/common/matrix.cpp
         src/common/menucmn.cpp
         src/common/modalhook.cpp
@@ -103,10 +104,13 @@ library WinSparkle_wx : t_3rdparty {
         src/common/toplvcmn.cpp
         src/common/translation.cpp
         src/common/unichar.cpp
+        src/common/uilocale.cpp
         src/common/uri.cpp
         src/common/ustring.cpp
         src/common/utilscmn.cpp
         src/common/variant.cpp
+        src/common/webrequest.cpp
+        src/common/webrequest_curl.cpp
         src/common/wincmn.cpp
         src/common/windowid.cpp
         src/common/wrapsizer.cpp

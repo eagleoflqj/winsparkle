@@ -40,6 +40,9 @@
     <ClCompile Include="wxWidgets\src\common\bmpbase.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="wxWidgets\src\common\bmpbndl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="wxWidgets\src\common\btncmn.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -89,9 +92,6 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="wxWidgets\src\common\dpycmn.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="wxWidgets\src\common\dynarray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="wxWidgets\src\common\dynlib.cpp">
@@ -170,6 +170,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="wxWidgets\src\common\longlong.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="wxWidgets\src\common\lzmastream.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="wxWidgets\src\common\matrix.cpp">
@@ -286,6 +289,9 @@
     <ClCompile Include="wxWidgets\src\common\unichar.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="wxWidgets\src\common\uilocale.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="wxWidgets\src\common\uri.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -296,6 +302,12 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="wxWidgets\src\common\variant.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="wxWidgets\src\common\webrequest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="wxWidgets\src\common\webrequest_curl.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="wxWidgets\src\common\wincmn.cpp">

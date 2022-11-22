@@ -193,6 +193,7 @@
     <ClCompile Include="wxWidgets\src\common\arrstr.cpp" />
     <ClCompile Include="wxWidgets\src\common\artprov.cpp" />
     <ClCompile Include="wxWidgets\src\common\bmpbase.cpp" />
+    <ClCompile Include="wxWidgets\src\common\bmpbndl.cpp" />
     <ClCompile Include="wxWidgets\src\common\btncmn.cpp" />
     <ClCompile Include="wxWidgets\src\common\checkboxcmn.cpp" />
     <ClCompile Include="wxWidgets\src\common\clntdata.cpp" />
@@ -210,7 +211,6 @@
     <ClCompile Include="wxWidgets\src\common\dlgcmn.cpp" />
     <ClCompile Include="wxWidgets\src\common\dobjcmn.cpp" />
     <ClCompile Include="wxWidgets\src\common\dpycmn.cpp" />
-    <ClCompile Include="wxWidgets\src\common\dynarray.cpp" />
     <ClCompile Include="wxWidgets\src\common\dynlib.cpp" />
     <ClCompile Include="wxWidgets\src\common\encconv.cpp" />
     <ClCompile Include="wxWidgets\src\common\event.cpp" />
@@ -237,6 +237,7 @@
     <ClCompile Include="wxWidgets\src\common\layout.cpp" />
     <ClCompile Include="wxWidgets\src\common\list.cpp" />
     <ClCompile Include="wxWidgets\src\common\longlong.cpp" />
+    <ClCompile Include="wxWidgets\src\common\lzmastream.cpp" />
     <ClCompile Include="wxWidgets\src\common\matrix.cpp" />
     <ClCompile Include="wxWidgets\src\common\menucmn.cpp" />
     <ClCompile Include="wxWidgets\src\common\modalhook.cpp" />
@@ -275,10 +276,13 @@
     <ClCompile Include="wxWidgets\src\common\toplvcmn.cpp" />
     <ClCompile Include="wxWidgets\src\common\translation.cpp" />
     <ClCompile Include="wxWidgets\src\common\unichar.cpp" />
+    <ClCompile Include="wxWidgets\src\common\uilocale.cpp" />
     <ClCompile Include="wxWidgets\src\common\uri.cpp" />
     <ClCompile Include="wxWidgets\src\common\ustring.cpp" />
     <ClCompile Include="wxWidgets\src\common\utilscmn.cpp" />
     <ClCompile Include="wxWidgets\src\common\variant.cpp" />
+    <ClCompile Include="wxWidgets\src\common\webrequest.cpp" />
+    <ClCompile Include="wxWidgets\src\common\webrequest_curl.cpp" />
     <ClCompile Include="wxWidgets\src\common\wincmn.cpp" />
     <ClCompile Include="wxWidgets\src\common\windowid.cpp" />
     <ClCompile Include="wxWidgets\src\common\wrapsizer.cpp" />

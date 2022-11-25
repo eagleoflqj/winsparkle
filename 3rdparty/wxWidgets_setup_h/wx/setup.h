@@ -44,7 +44,7 @@
 // in the version after it completely.
 //
 // Recommended setting: 0 (please update your code)
-#define WXWIN_COMPATIBILITY_3_0 0
+#define WXWIN_COMPATIBILITY_3_0 1
 
 // MSW-only: Set to 0 for accurate dialog units, else 1 for old behaviour when
 // default system font is used for wxWindow::GetCharWidth/Height() instead of
@@ -268,7 +268,7 @@
 // Default is 1
 //
 // Recommended setting: 1 as setting it to 0 disables many other things
-#define wxUSE_STREAMS       0
+#define wxUSE_STREAMS       1
 
 // Support for positional parameters (e.g. %1$d, %2$s ...) in wxVsnprintf.
 // Note that if the system's implementation does not support positional
@@ -441,7 +441,7 @@
 // Recommended setting: 1 (wxFile is highly recommended as it is required by
 // i18n code, wxFileConfig and others)
 #define wxUSE_FILE          1
-#define wxUSE_FFILE         0
+#define wxUSE_FFILE         1
 
 // Use wxFSVolume class providing access to the configured/active mount points
 //
@@ -961,7 +961,7 @@
 #define wxUSE_STATLINE      0   // wxStaticLine
 #define wxUSE_STATTEXT      1   // wxStaticText
 #define wxUSE_STATBMP       1   // wxStaticBitmap
-#define wxUSE_TEXTCTRL      0   // wxTextCtrl
+#define wxUSE_TEXTCTRL      1   // wxTextCtrl
 #define wxUSE_TIMEPICKCTRL  0   // wxTimePickerCtrl
 #define wxUSE_TOGGLEBTN     0   // requires wxButton
 #define wxUSE_TREECTRL      0   // wxTreeCtrl
